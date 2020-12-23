@@ -1,0 +1,39 @@
+
+
+
+*{
+border:4px solid rgb(66, 0, 247);
+margin:1%;
+}
+.Intro{
+    color:rgb(228, 65, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display:flex;
+    justify-content:space-evenly;
+}
+.First{
+    color: rgb(37, 214, 111);  
+    font-size:20px; 
+}
+.Second{
+    color:rgb(37, 214, 111);
+    font-size:20px; 
+
+}
+.Third{
+    color:rgb(37, 214, 111);  
+    font-size:20px; 
+}
+.Four{
+    color:rgb(37, 214, 111);   
+    font-size:20px; 
+}
+.Five{
+    color:rgb(37, 214, 111);   
+    font-size:20px; 
+}
+.Six{
+    color:rgb(37, 214, 111);   
+    font-size:20px; 
+}
+
